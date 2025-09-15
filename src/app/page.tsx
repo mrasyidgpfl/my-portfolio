@@ -72,7 +72,7 @@ export default function Home() {
             Hi, I&apos;m Rasyid Gatrawijaya
           </h1>
           <p className="mt-4 text-xl text-gray-600 dark:text-gray-300">
-            MSc CS @ Bath | Versatile Software Engineer | Ex-Shopee
+            MSc CS from Bath | Versatile Software Engineer | Ex-Shopee
           </p>
         </motion.div>
 
